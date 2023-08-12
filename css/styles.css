@@ -27,5 +27,12 @@ body{
 }
 
 .ingredients{
-    text-align:left
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ingredients.header{
+    text-indent: 1%;
+    font-weight: bold;
+    
 }
