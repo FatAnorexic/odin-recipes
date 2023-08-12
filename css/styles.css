@@ -43,9 +43,15 @@ body{
     margin-left: 51%;
     margin-top: auto;
 }
-.steps{
+.steps.header{
     text-indent: 55%;
 }
 #pizza{
     margin-top: -7%;
+}
+#nachos{
+    margin-top: -18%;
+}
+#lasagna{
+    margin-top: -18%;
 }
