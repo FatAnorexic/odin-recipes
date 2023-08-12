@@ -41,8 +41,9 @@ body{
     font-family:'Courier New', Courier, monospace;
     text-align: left;
     margin-left: 51%;
+    margin-top: auto;
 }
-.steps.header{
-    text-indent: 65%;
-    margin-top: -7%;
+.steps#pizza{
+    text-indent: 55%;
+
 }
