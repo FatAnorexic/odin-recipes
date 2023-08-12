@@ -43,7 +43,9 @@ body{
     margin-left: 51%;
     margin-top: auto;
 }
-.steps#pizza{
+.steps{
     text-indent: 55%;
-
+}
+#pizza{
+    margin-top: -7%;
 }
