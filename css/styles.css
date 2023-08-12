@@ -13,8 +13,9 @@ h1{
 }
 
 div{
-    background-color: rgb(235, 113, 113);
+    background-color: rgb(160, 162, 162);
     outline: auto;
+    text-align: center;
 }
 
 .pizza{
@@ -23,4 +24,8 @@ div{
 
 body{
     background-color: rgb(228, 223, 194);
+}
+
+.ingredients{
+    text-align:left
 }
