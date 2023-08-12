@@ -35,3 +35,16 @@ body{
     text-indent: 1%;
     font-weight:bold;
 }
+.steps{
+    font-family:'Courier New', Courier, monospace;
+    text-align: left;
+}
+.steps.header{
+    text-indent: 65%;
+    margin-top: -7%;
+}
+.steps.list{
+    margin-left: 0;
+    padding-left: 50%;
+    margin-top: auto;
+}
