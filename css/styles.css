@@ -9,3 +9,7 @@ h1{
     width: 400px;
     margin: auto;
 }
+
+div{
+    background-color: red;
+}
