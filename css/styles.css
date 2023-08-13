@@ -6,6 +6,7 @@ h1, h2{
 }
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
 }
 div{
     background-color: rgb(160, 162, 162);
