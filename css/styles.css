@@ -4,7 +4,13 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     color: rgb(45, 44, 43);
 }
-
+.menu{
+    text-align: left;
+    margin-left: 45%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
 .pizza.images{
     display: block;
     height: auto;
@@ -55,11 +61,4 @@ body{
 }
 #lasagna{
     margin-top: -18%;
-}
-ul{
-    text-align: left;
-    margin-left: 45%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    font-size: 30px;
 }
