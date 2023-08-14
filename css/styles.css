@@ -19,10 +19,12 @@ body{
 }
 .menu{
     text-align: left;
-    margin-left: 45%;
+    margin: 0% 40%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: 30px;
+    padding: 3%;
+    outline: double red;
 }
 .images{
     display: block;
