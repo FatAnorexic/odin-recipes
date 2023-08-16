@@ -21,8 +21,9 @@ body{
     background-color: rgb(228, 223, 194);
 }
 .menu{
-    text-align: center;
-    margin: 0% 40%;
+    display: block;
+    text-align: left;
+    margin: 0 600px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: 30px;
