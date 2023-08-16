@@ -11,7 +11,7 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
 }
-div{
+.card{
     background-color: rgb(160, 162, 162);
     outline: auto;
     text-align: center;
