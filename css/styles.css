@@ -23,7 +23,7 @@ body{
 .menu{
     text-align: center;
     margin: 0 628px;
-    padding: 8px;
+    padding: 8px 8px 1px 8px;
     outline: double red;
     background: white;
 }
@@ -33,9 +33,11 @@ body{
 }
 .two{
     background-color: rgb(228, 223, 194);
+    padding: 1px 20px 1px 18px;
 }
 .three{
     background-color: rgb(228, 223, 194);
+    padding: 1px 23px 1px 28px;
 }
 
 button{
