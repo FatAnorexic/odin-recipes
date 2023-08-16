@@ -27,16 +27,12 @@ body{
     outline: double red;
     background: white;
 }
-.one{
+.one {
     background-color: rgb(228, 223, 194);
-    margin-bottom: 8px;
-    padding: 1px 47px 1px 40px;
-    border: 3px black solid;
-
+    padding: 1px 45px 1px 40px;
 }
 .two{
     background-color: rgb(228, 223, 194);
-    margin-bottom: 8px;
 }
 .three{
     background-color: rgb(228, 223, 194);
@@ -48,7 +44,9 @@ button{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: 30px;
-    flex: 200px;
+    padding: 0px;
+    border: 3px solid black;
+    margin-bottom: 8px;
 }
 .images{
     display: block;
