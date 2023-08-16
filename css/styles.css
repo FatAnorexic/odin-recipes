@@ -41,7 +41,8 @@ body{
 }
 
 button{
-    background: red;
+    display: block;
+    background: rgb(228, 223, 194);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: 30px;
