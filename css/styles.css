@@ -22,11 +22,11 @@ body{
 }
 .menu{
     text-align: left;
-    margin: 0 600px;
+    margin: 0 628px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: 30px;
-    padding: 3%;
+    padding: 8px;
     outline: double red;
 }
 .images{
