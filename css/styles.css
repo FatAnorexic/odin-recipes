@@ -23,25 +23,29 @@ body{
 .menu{
     text-align: center;
     margin: 0 628px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    font-size: 30px;
     padding: 8px;
     outline: double red;
     background: white;
 }
 .one{
     background-color: rgb(228, 223, 194);
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 
 }
 .two{
     background-color: rgb(228, 223, 194);
+    margin-bottom: 8px;
 }
 .three{
     background-color: rgb(228, 223, 194);
 }
 
+button{
+    background: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
 .images{
     display: block;
     height: auto;
