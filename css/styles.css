@@ -29,6 +29,8 @@ body{
     padding: 8px;
     outline: double red;
 }
+.one{
+}
 .images{
     display: block;
     height: auto;
